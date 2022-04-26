@@ -29,6 +29,7 @@ if bt1:
      
     **Fondo (bottom) o belleza (beauty).** Dotado de una inferioridad (bottomness) -1.  ''')
     
+    st.markdown("**Teoría del Color**")
     st.write("El término color se introdujo para denominar una propiedad de los quarks, que permitió que quarks aparentemente idénticos, puedan residir en la misma partícula, por ejemplo, dos quarks up en el protón. La idea de los tres colores primarios como el rojo, verde y azul que componen la luz blanca era atractiva, y nació el lenguaje sobre partículas incoloras. No tiene nada que ver con el color real, pero proporciona tres diferentes estados cuánticos. La propiedad puede ser considerada algo así como una carga de color, con tres valores distintos, los cuales conforman partículas que sólo permiten el color neutro.")
     
     
@@ -54,6 +55,7 @@ if bt4:
   st.image("https://agencia.fapesp.br/agencia-novo/imagens/noticia/19475.jpg")
   col3,col4=st.columns(2)
   with col3:
+    st.markdown("**Teoría de Campo de Higgs**")
     st.write("Surgió a partir de que los físicos no sabían cómo hacer que las partículas adquirieran masa dentro del modelo estándar, el cual está en base a la simetría, dentro de la física de materiales, como el cambio de estado de agregación, lo que se buscó fue introducir una simetría, para posteriormente romperla (campo de Higgs, con simetría de sombrero mexicano; al momento de romper dicha simetría, los cuerpos adquieren masa, como lo que se sospecha que ocurrió en el Big-Bang.")
   with col4:
     st.image("http://quantum-bits.org/wp-content/uploads/2012/08/higgs-hat.png")
