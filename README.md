@@ -1,2 +1,2 @@
 # particulas-elementales-
-Te mostraremos el comportamento de las partiuclas elementales 
+Te mostraremos el comportamento de las partículas elementales 
