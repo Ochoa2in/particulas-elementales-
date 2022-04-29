@@ -1,7 +1,7 @@
 import streamlit as st
 if st.button:
   st.title("Partículas elementales")
-  st.header("Esta aplicación te enseñara un poco acerca de las partículas elementales.") 
+  st.header("Esta aplicación te enseñará un poco acerca de las partículas elementales.") 
   st.write("Las partículas elementales podrían considerarse como los ladrillos básicos de la creación, se les llama partículas elementales ya que no están constituidas por partículas más pequeñas.")
   st.image("https://upload.wikimedia.org/wikipedia/commons/0/00/Standard_Model_of_Elementary_Particles.svg")
   
@@ -17,7 +17,7 @@ if bt1:
   st.write("Los quarks son un tipo de partícula que constituye la materia. Si miramos a nuestro alrededor... toda la materia que vemos está compuesta de protones y neutrones, y estas partículas están compuestas de quarks.")
   col1,col2= st.columns (2)
   with col1:
-    st.markdown(''' **Arriba_(up).** Dotado de un isospín +1/2 como número cuántico.
+    st.markdown(''' **Arriba (up).** Dotado de un isospín +1/2 como número cuántico.
     
     **Abajo (down).** Dotado de un isospín -1/2 como número cuántico.
     
